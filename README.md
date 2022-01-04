@@ -1,1 +1,5 @@
-WebPlayer reproduzido através das vídeos-aulas da rocket(podcastnext) sobre react.
+<h1>Executar o projeto</h1>
+- npm run dev
+
+
+Obs: não se esqueça de colocar a key na apideezer
