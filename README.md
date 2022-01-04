@@ -1,5 +1,5 @@
 <h1>Executar o projeto</h1>
-- npm run dev
+$ npm run dev
 
-
-Obs: não se esqueça de colocar a key na apideezer
+<br><br>
+#Obs: não se esqueça de colocar a key na apideezer
