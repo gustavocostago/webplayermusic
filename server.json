@@ -1,0 +1,69 @@
+{
+    "episodes": [
+        {
+            "id": "biu-do-piseiro",
+            "title": "Biu do Piseiro - No beco ou na Casinha",
+            "members": "Biu do Piseiro",
+            "published_at": "2021-10-03",
+            "thumbnail": "https://img.youtube.com/vi/AXQbjgARkkI/maxresdefault.jpg",
+            "description": "<p>Biu cantando</p>",
+            "file": {
+                "url": "https://www.youtube.com/watch?v=AXQbjgARkkI",
+                "type": "audio/x-m4a",
+                "duration": 1010
+            }
+        },
+        {
+            "id": "guga-presentinho",
+            "title": "Guga Nandes - Presentinho",
+            "members": "Guga Nandes",
+            "published_at": "2021-10-03",
+            "thumbnail": "https://img.youtube.com/vi/A1iUwYvRphY/maxresdefault.jpg",
+            "description": "<p>Biu cantando</p>",
+            "file": {
+                "url": "https://www.youtube.com/watch?v=A1iUwYvRphY",
+                "type": "audio/x-m4a",
+                "duration": 110
+            }
+        },
+        {
+            "id": "maraia-maraisa-10-porcento",
+            "title": "Maiara & Maraisa - 10% (Ao Vivo em Goiânia)",
+            "members": "Maraira e Maraisa",
+            "published_at": "2021-10-03",
+            "thumbnail": "https://img.youtube.com/vi/JybMBMTHWP8/maxresdefault.jpg",
+            "description": "<p>Biu cantando</p>",
+            "file": {
+                "url": "https://www.youtube.com/watch?v=JybMBMTHWP8",
+                "type": "audio/x-m4a",
+                "duration": 150
+            }
+        },
+        {
+            "id": "dennis-cantini-isso-que-eh-vida",
+            "title": "Dennis e Cantini - Isso Que É Vida",
+            "members": "Dennis e Cantini",
+            "published_at": "2021-10-25",
+            "thumbnail": "https://img.youtube.com/vi/QBFZyq3FRuw/maxresdefault.jpg",
+            "description": "<p>Biu cantando</p>",
+            "file": {
+                "url": "https://www.youtube.com/watch?v=QBFZyq3FRuw",
+                "type": "audio/x-m4a",
+                "duration": 2000
+            }
+        },
+        {
+            "id": "gp-envolvenvia-arranhao",
+            "title": "Grupo Envolvência - Arranhão",
+            "members": "Grupo Envolvência",
+            "published_at": "2020-05-03",
+            "thumbnail": "https://img.youtube.com/vi/bqwXLU9i3MY/maxresdefault.jpg",
+            "description": "<p>Biu cantando</p>",
+            "file": {
+                "url": "https://www.youtube.com/watch?v=bqwXLU9i3MY",
+                "type": "audio/x-m4a",
+                "duration": 30000
+            }
+        }
+    ]
+}
